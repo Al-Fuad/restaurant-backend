@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-backend",
+  "version": "1.0.0",
+  "description": "restaurant apis",
+  "homepage": "https://github.com/Al-Fuad/restaurant-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Al-Fuad/restaurant-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al-Fuad/restaurant-backend.git"
+  },
+  "license": "MIT",
+  "author": "S M Al Fuad Nur",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
